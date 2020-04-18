@@ -1,3 +1,3 @@
 Welcome to My First Repo
 Learning Git is going well so far.
-new line
+I added a new line.
